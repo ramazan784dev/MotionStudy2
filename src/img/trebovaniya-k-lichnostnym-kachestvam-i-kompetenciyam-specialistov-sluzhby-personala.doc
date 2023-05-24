@@ -1,0 +1,218 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta><!--[if gte mso 9]>
+					<xml>
+						<w:WordDocument>
+							<w:View>Print</w:View>
+							<w:Zoom>90</w:Zoom>
+							<w:DoNotOptimizeForBrowser/>
+						</w:WordDocument>
+					</xml>
+				<![endif]--><style xmlns="" type="text/css" media="all">
+                body {
+                    font-size: 100%;
+                }
+                h1.normal {
+                    color: #000 !important;
+                    width: 75%;
+                }
+                .content_block {
+                    margin-right: 3%;
+                    width: 74%;
+                }
+                div#documentBody {
+                    margin-top: 31px;
+                    padding-bottom: 30px;
+                }
+                div.docChainList {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 7px 0 0;
+                    padding: 10px;
+                }
+                table.author-tbl {
+                    width: 40%;
+                }
+                div.page-box {
+                    width: 100%;
+                }
+                div.page-wrapper .doc-page .content {
+                    font-size: 14px;
+                }
+                pre {
+                    font-family: sans-serif;
+                    word-wrap: break-word;
+                }
+                .references {
+                    display: none;
+                }
+                span.doc__references {
+                    display: none;
+                }
+                .footer {
+                    font-family: Arial;
+                    font-size: 13px;
+                    margin: 50px 0 0;
+                }
+
+            </style></head><body><style xmlns="" type="text/css" media="all">
+            table, td {
+                padding: 5px 10px;
+                vertical-align: middle;
+                border-collapse: collapse;
+            }
+            table.bdAll, td.bdAll, table.bdAll td, table td.bdAll {
+                border: 1px solid #000;
+            }
+            table.bdTop, td.bdTop {
+                border-top: 1px solid #000;
+                padding: 6px;
+            }
+            table.bdBottom, td.bdBottom {
+                border-bottom: 1px solid #000;
+            }
+
+            table.bdRight, td.bdRight {
+                border-right: 1px solid #000;
+            }
+            table.bdLeft, td.bdLeft {
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdRightbdTopbdBottom{
+                border-top: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdBottombdLeftbdRight{
+                border-left: 1px solid #000;
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeft {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdTopbdRight {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdBottom {
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+            }
+            td.bdRightbdBottom {
+                border-bottom: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdLeftbdRight {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdLeftbdRight {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+            }
+            td.bdTopbdRightbdBottom {
+                border-top: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdLeftbdRightbdBottom {
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            td.bdAll {
+                border-top: 1px solid #000;
+                border-left: 1px solid #000;
+                border-right: 1px solid #000;
+                border-bottom: 1px solid #000;
+            }
+            span.storno {
+                border:1px solid black;
+                padding:0 1px;
+            }
+            ul li,
+            ol li {
+                margin: 0 0 0.42857143em;
+            }
+            dl dd {
+                margin: 0 0 0.42857143em;
+            }
+            ul,
+            ol,
+            dl {
+                margin: 0 0 0.92857143em 2.85714286em;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
+            span.incut-head-control {
+                font: bold 14px / 1.25 Helvetica, Arial, sans-serif;
+            }
+            .doc-tooltip, .doc-notes {
+                display: none;
+            }
+            td.bdAll_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdRightbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdLeftbdRightbdBottom_grey {
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+            }
+            td.bdLeftbdBottom_grey {
+                border-bottom: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            td.bdTopbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            td.bdTopbdLeftbdRight_grey {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-right: 1px solid #ccc;
+            }
+            .doc-columns__item-title-calendar {
+                color: #666;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-title-calendar-holiday {
+                color: #f33;
+                font-size: 18px;
+                font-weight: bold;
+                font: normal 14px / 1.42857143 Arial, Helvetica, sans-serif;
+            }
+            .doc-columns__item-text-press {
+                margin:4px 0px 12px;
+            }
+        </style><div xmlns="" class="content_block"><p class="print_redaction-line for-print">Редакция от&#32;1 янв 2014</p><h2 class="auth__title">Требования к личностным качествам и компетенциям специалистов службы персонала</h2><div id="documentBody" class="content-common"><div class="table-wide scroller-wrapper"><div class="scroller table-scroller"><div class="scroller__container"><table class="bdAll"><thead class="fixed"><tr data-role="phrase-row" align="center"><td><a data-anchor="/document/117/12016/dfasngoso9/" data-dfa="dfasngoso9"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr1"></a><a data-anchor="/document/117/12016/bssPhr1/"></a><a data-anchor="/document/117/12016/tig4/"></a>Качество</td><td>Поведенческие признаки</td></tr></thead><tr data-role="phrase-row" valign="top"><td><a data-anchor="/document/117/12016/dfas8l6fzg/" data-dfa="dfas8l6fzg"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr2"></a><a data-anchor="/document/117/12016/bssPhr2/"></a>Ответственность</td><td valign="middle"><ul class="c-list"><li><a data-anchor="/document/117/12016/dfasusy332/" data-dfa="dfasusy332"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr3"></a><a data-anchor="/document/117/12016/bssPhr3/"></a><a data-anchor="/document/117/12016/tig6/"></a>Самостоятельно принимает обоснованные решения в сфере своей профессиональной ответственности;</li><li><a data-anchor="/document/117/12016/tig5/"></a>отвечает за результаты и последствия принятых решений и деятельности</li></ul></td></tr><tr data-role="phrase-row" valign="top"><td><a data-anchor="/document/117/12016/dfasf137wg/" data-dfa="dfasf137wg"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr4"></a><a data-anchor="/document/117/12016/bssPhr4/"></a>Внимательность</td><td valign="middle"><ul class="c-list"><li><a data-anchor="/document/117/12016/dfasa8q61m/" data-dfa="dfasa8q61m"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr5"></a><a data-anchor="/document/117/12016/bssPhr5/"></a><a data-anchor="/document/117/12016/tig8/"></a>Выясняет детали и подробности задания;</li><li><a data-anchor="/document/117/12016/tig9/"></a>точно, до мельчайших деталей, выполняет поставленную задачу;</li><li><a data-anchor="/document/117/12016/tig7/"></a>имеет навыки самопроверки и самоконтроля (проверяет работы на аккуратность и завершенность)</li></ul></td></tr><tr data-role="phrase-row" valign="top"><td><a data-anchor="/document/117/12016/dfaskt1m4i/" data-dfa="dfaskt1m4i"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr6"></a><a data-anchor="/document/117/12016/bssPhr6/"></a>Коммуникабельность</td><td valign="middle"><ul class="c-list"><li><a data-anchor="/document/117/12016/dfasvgk48m/" data-dfa="dfasvgk48m"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr7"></a><a data-anchor="/document/117/12016/bssPhr7/"></a><a data-anchor="/document/117/12016/tig11/"></a>Четко и грамотно излагает свои мысли (в устной и письменной форме);</li><li><a data-anchor="/document/117/12016/tig12/"></a>выбирает языковые средства в соответствии с уровнем собеседника;</li><li><a data-anchor="/document/117/12016/tig13/"></a>использует различные каналы коммуникации (телефон, электронная почта и пр.);</li><li><a data-anchor="/document/117/12016/tig14/"></a>применяет развитые навыки активного слушания;</li><li><a data-anchor="/document/117/12016/tig15/"></a>дает грамотную обратную связь, воспринимает конструктивную критику;</li><li><a data-anchor="/document/117/12016/tig10/"></a>готов делиться информацией</li></ul></td></tr><tr data-role="phrase-row" valign="top"><td><a data-anchor="/document/117/12016/dfasye8963/" data-dfa="dfasye8963"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr8"></a><a data-anchor="/document/117/12016/bssPhr8/"></a>Инициативность</td><td valign="middle"><ul class="c-list"><li><a data-anchor="/document/117/12016/dfasnwuf5y/" data-dfa="dfasnwuf5y"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr9"></a><a data-anchor="/document/117/12016/bssPhr9/"></a><a data-anchor="/document/117/12016/tig17/"></a>Стремится по личной инициативе сделать больше, чем требуется на должности, не дожидаясь внешнего воздействия;</li><li><a data-anchor="/document/117/12016/tig16/"></a>вносит предложения по улучшению результатов работы, созданию новых возможностей</li></ul></td></tr><tr data-role="phrase-row" valign="top"><td><a data-anchor="/document/117/12016/dfasdgyseq/" data-dfa="dfasdgyseq"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr10"></a><a data-anchor="/document/117/12016/bssPhr10/"></a>Гибкость</td><td valign="middle"><ul class="c-list"><li><a data-anchor="/document/117/12016/dfasc8ok8l/" data-dfa="dfasc8ok8l"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr11"></a><a data-anchor="/document/117/12016/bssPhr11/"></a><a data-anchor="/document/117/12016/tig19/"></a>Быстро адаптируется и эффективно работает в различных ситуациях, с отдельными людьми или группами;</li><li><a data-anchor="/document/117/12016/tig20/"></a>с пониманием относится к разным точкам зрения на проблему;</li><li><a data-anchor="/document/117/12016/tig18/"></a>легко принимает изменения в организации, новые рабочие требования</li></ul></td></tr><tr data-role="phrase-row" valign="top"><td><a data-anchor="/document/117/12016/dfasgnywsf/" data-dfa="dfasgnywsf"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr12"></a><a data-anchor="/document/117/12016/bssPhr12/"></a><a data-anchor="/document/117/12016/tig21/"></a>Стрессоустойчивость</td><td valign="middle">Способен переносить значительные интеллектуальные, волевые, эмоциональные нагрузки</td></tr><tr data-role="phrase-row" valign="top"><td><a data-anchor="/document/117/12016/dfas3b64qr/" data-dfa="dfas3b64qr"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr13"></a><a data-anchor="/document/117/12016/bssPhr13/"></a><a data-anchor="/document/117/12016/tig22/"></a>Позитивное мышление</td><td valign="middle">Имеет склонность к поиску решения проблем&nbsp;– в противоположность фиксации на проблеме</td></tr><tr data-role="phrase-row" valign="top"><td><a data-anchor="/document/117/12016/dfaswb39o2/" data-dfa="dfaswb39o2"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr14"></a><a data-anchor="/document/117/12016/bssPhr14/"></a><a data-anchor="/document/117/12016/tig23/"></a>Планирование и самоорганизация</td><td valign="middle">Правильно планирует рабочий день, организует свою работу таким образом, чтобы все задачи были завершены успешно и точно в срок</td></tr><tr data-role="phrase-row" valign="top"><td><a data-anchor="/document/117/12016/dfas37kgm3/" data-dfa="dfas37kgm3"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr15"></a><a data-anchor="/document/117/12016/bssPhr15/"></a><a data-anchor="/document/117/12016/tig24/"></a>Скрупулезность</td><td valign="middle">Точен, внимателен к мелочам, тщательно выполняет и проверяет работу</td></tr><tr data-role="phrase-row" valign="top"><td><a data-anchor="/document/117/12016/dfasmtmhg5/" data-dfa="dfasmtmhg5"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr16"></a><a data-anchor="/document/117/12016/bssPhr16/"></a><a data-anchor="/document/117/12016/tig25/"></a>Устойчивость к монотонии</td><td valign="middle">Способен выполнять однообразные повторяющиеся действия в течение длительного времени</td></tr><tr data-role="phrase-row" valign="top"><td><a data-anchor="/document/117/12016/dfasqw2cy2/" data-dfa="dfasqw2cy2"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr17"></a><a data-anchor="/document/117/12016/bssPhr17/"></a><a data-anchor="/document/117/12016/tig26/"></a>Обучаемость</td><td valign="middle">Имеет высокую скорость усвоения новой информации, способен отказываться от непродуктивных стереотипов</td></tr><tr data-role="phrase-row" valign="top"><td><a data-anchor="/document/117/12016/dfasftagmg/" data-dfa="dfasftagmg"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr18"></a><a data-anchor="/document/117/12016/bssPhr18/"></a><a data-anchor="/document/117/12016/tig27/"></a>Мотивированность к работе</td><td valign="middle">Способен проявлять настойчивость и прилагать волевые усилия для достижения требуемого результата</td></tr><tr data-role="phrase-row" valign="top"><td><a data-anchor="/document/117/12016/dfasw5tgbt/" data-dfa="dfasw5tgbt"></a><a data-role="phrase-anchor" data-doc-id="12016" data-mod-id="117" data-phrase-anchor="bssPhr19"></a><a data-anchor="/document/117/12016/bssPhr19/"></a><a data-anchor="/document/117/12016/tig28/"></a>Лояльность к организации</td><td valign="middle">Способен осознанно оценивать цели организации, приоритетные по отношению к индивидуальным целям или профессиональным приоритетам</td></tr></table></div><div class="scroller__track  scroller__track_h"><div class="scroller__bar scroller__bar_h"></div></div></div></div></div></div><div xmlns="" class="footer">© Материал из КСС «Система Кадры»<br /> Готовые решения для службы персонала на https://vip.1kadry.ru<br />Дата копирования: 05.07.2019</div></body></html>

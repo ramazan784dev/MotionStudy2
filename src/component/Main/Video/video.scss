@@ -1,0 +1,146 @@
+#comments {
+  padding-bottom: 0;
+
+  .comments {
+    &-title {
+      font-family: 'Gilroy',sans-serif;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 44px;
+      line-height: 103.8%;
+      text-transform: capitalize;
+      color: #212121;
+      margin-bottom: 111px;
+      text-align: center;
+    }
+    &-slider {
+      overflow: hidden;
+
+      button {
+        display: none !important;
+      }
+    }
+    .slick-track {
+      display: flex;
+      column-gap: 40px;
+
+      .slick-slide {
+        width: 520px !important;
+        height: 340px !important;
+
+        div {
+          width: 520px;
+          height: 340px;
+          div {
+            img {
+              width: 100%;
+              height: 100%;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 1140px) {
+  #comments {
+    .comments {
+      .slick-track {
+        column-gap: 32px;
+
+        .slick-slide {
+          width: 490px !important;
+          height: 300px !important;
+
+          div {
+            width: 100%;
+            height: 100%;
+            div {
+              img {
+                width: 100%;
+                height: 100%;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+}
+
+@media (max-width: 768px) {
+  #comments {
+    padding-bottom: 152px;
+
+    .comments {
+      &-title {
+        margin-bottom: 65px;
+      }
+      .slick-track {
+        column-gap: 24px;
+
+        .slick-slide {
+          width: 490px !important;
+          height: auto !important;
+
+          div {
+            width: 100%;
+            height: 100%;
+            div {
+              img {
+                width: 100%;
+                height: 100%;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+}
+
+@media (max-width: 576px) {
+  #comments {
+
+    .comments {
+      .slick-track {
+        column-gap: 20px;
+
+        .slick-slide {
+          width: auto !important;
+          height: auto !important;
+
+          div {
+            width: auto;
+            height: auto;
+          }
+        }
+      }
+    }
+  }
+
+}
+
+@media (max-width: 451px) {
+  #comments {
+    padding-bottom: 0;
+
+    .comments {
+      &-title {
+        font-size: 28px;
+        line-height: 34px;
+        text-align: start;
+        margin-bottom: 34px;
+      }
+      .slick-track {
+        .slick-slide {
+          width: 100% !important;
+          height: 212px !important;
+        }
+      }
+    }
+  }
+}

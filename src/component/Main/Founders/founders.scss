@@ -1,0 +1,183 @@
+#founders{
+  padding: 40px 0 170px 0;
+  .founders{
+
+    &__found{
+      font-weight: 500;
+      font-size: 44px;
+      color: #EC3025;
+    }
+    &__web{
+      width: 380px;
+      height: 120px;
+      font-weight: 400;
+      font-size: 24px;
+      color: rgba(27, 27, 27, 0.8);
+    }
+    &__bloc2{
+      display: flex;
+      justify-content: end;
+      margin: -172px 0;
+      h1{
+        font-weight: 400;
+        font-size: 24px;
+        color: #000000;
+
+      }
+      p{
+        font-weight: 400;
+        font-size: 19px;
+        color: rgba(27, 27, 27, 0.8);
+      }
+      img{
+        width: 380px;
+        height: 397px;
+      }
+      &--Ku{
+        padding: 0 60px;
+
+        //img{
+        //  width: 380px;
+        //  height: 397px;
+        //}
+      }
+      &--Ka{
+        //img{
+        //  width: 380px;
+        //  height: 397px;
+        //}
+      }
+    }
+  }
+}
+
+@media (max-width: 1200px) {
+  #founders .founders__bloc2 img {
+    width: 350px;
+    height: 360px;
+    padding: 0 10px;
+  }
+  #founders .founders__bloc2--Ku {
+    padding: 0 0;
+  }
+  #founders .founders__web {
+    width: 362px;
+  }
+}
+@media (max-width: 1024px) {
+  #founders .founders__bloc2 img {
+    width: 330px;
+    height: 345px;
+  }
+  #founders .founders__web {
+    width: 263px;
+    font-size: 23px;
+  }
+}
+@media (max-width: 992px) {
+  #founders .founders__bloc2 {
+    padding: 230px 0 0 0;
+  }
+  #founders .founders__web {
+    width: 675px;
+    font-size: 24px;
+  }
+  #founders .founders__bloc2--Ku {
+    padding: 0 14px;
+  }
+  #founders .founders__bloc2--Ka {
+    padding: 0 0;
+  }
+  #founders .founders__bloc2 img {
+    width: 370px;
+    height: 345px;
+  }
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 650px) {
+  #founders .founders__web {
+    width: 508px;
+    font-size: 24px;
+  }
+}
+@media (max-width: 576px) {
+  #founders .founders__bloc2 img {
+    width: 380px;
+    height: 345px;
+  }
+}
+@media (max-width: 451px) {
+  #founders .founders__web {
+    width: 408px;
+    font-size: 22px;
+  }
+  #founders .founders__bloc2 img {
+    width: 380px;
+    height: 290px;
+  }
+  #founders .founders__bloc2 {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media (max-width: 401px) {
+  #founders .founders__web {
+    width: 365px;
+    font-size: 20px;
+  }
+  #founders .founders__found {
+    font-size: 40px;
+  }
+  #founders .founders__bloc2 img {
+    width: 380px;
+    height: 265px;
+  }
+  #founders .founders__bloc2 h1 {
+    font-size: 20px;
+  }
+  #founders .founders__bloc2--Ku {
+    padding: 10px 0;
+  }
+}
+@media (max-width: 380px) {
+  #founders .founders__web {
+    width: 330px;
+    font-size: 18px;
+  }
+  #founders .founders__found {
+    font-size: 35px;
+  }
+  #founders .founders__bloc2 img {
+    height: 245px;
+  }
+}
+@media (max-width: 375px) {
+
+}
+@media (max-width: 360px) {
+  #founders .founders__bloc2 img {
+    height: 225px;
+  }
+}
+@media (max-width: 320px) {
+  #founders .founders__web {
+    width: 280px;
+    font-size: 15px;
+  }
+  #founders .founders__bloc2 h1 {
+    font-size: 16px;
+  }
+  #founders .founders__found {
+    font-size: 32px;
+  }
+  #founders .founders__bloc2 img {
+    height: 210px;
+  }
+  #founders .founders__bloc2 p {
+    font-weight: 400;
+    font-size: 15px;
+    color: rgba(27, 27, 27, 0.8);
+  }
+}
